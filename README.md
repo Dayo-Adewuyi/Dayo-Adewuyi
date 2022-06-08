@@ -2,6 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <h1 align="center">I'm <a href="https://github.com/Dayo-Adewuyi">Dayo<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dayo-Adewuyi&label=Profile%20views&color=0e75b6&style=flat" alt="Dayo-Adewuyi" /> </p>
 <Br>
 <h1>About Me! 😎</h1>
 
