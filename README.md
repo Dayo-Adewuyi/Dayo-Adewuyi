@@ -8,7 +8,7 @@
 
 - 💰 I'm a Freelancer.
 - 🔭 I’m currently working on many exciting EVM compatible projects.
-- 🧱 I’m great with SmartContracts, Frontend development and Zero Knowledge Protocols. 🧠💻🌐
+- 🧱 I’m great with SmartContracts, Frontend development, Backend development and Zero Knowledge Protocols. 🧠💻🌐
 - 🤝 I’m open to work/help with anything related to writing smartcontracts!
 - ⚡  Fun fact: I play Chess, Football and the Piano! ♟️🎾🎹
   
@@ -32,7 +32,7 @@
   
 |![](https://img.shields.io/badge/-Solidity-lightgrey)|![](https://img.shields.io/badge/Web%20Developmment-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Database%20Management-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/-Frontend%20Development-blue)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Application-Testing-blue?style=for-the-badge)|![](https://img.shields.io/badge/DB-Application%20Optimization-blue?style=for-the-badge)|![](https://img.shields.io/badge/-ZeroKnowledge%20Protocols-orange)|
+|![](https://img.shields.io/badge/NodeJS-blue?style=for-the-badge)|![](https://img.shields.io/badge/DB-Application%20Optimization-blue?style=for-the-badge)|![](https://img.shields.io/badge/-ZeroKnowledge%20Protocols-orange)|
 |![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 <Br>
